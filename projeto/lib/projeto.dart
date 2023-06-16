@@ -1,3 +1,5 @@
 int calculate() {
-  return 6 * 7;
+  var a = 6;
+  var b = 7;
+  return a * b;
 }
