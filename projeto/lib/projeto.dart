@@ -1,7 +1,7 @@
 int calculate() {
-  var a = 5;
-  var b = 2;
-  return a + b;
+  var x = 10;
+  var d = 4;
+  return d + x;
 }
 
 int calculate2() {
