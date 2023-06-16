@@ -1,6 +1,6 @@
 int calculate() {
   var x = 10;
-  var d = 5;
+  var d = 10;
   return d + x;
 }
 
