@@ -1,5 +1,5 @@
 int calculate() {
-  var a = 6;
-  var b = 7;
-  return a * b;
+  var a = 5;
+  var b = 2;
+  return a + b;
 }
